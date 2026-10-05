@@ -1,0 +1,18 @@
+{
+  "name": "AveryOrphanageNote",
+  "version": "1.0.0",
+  "styleFileList": [],
+  "scriptFileList": [
+    "main.js"
+  ],
+  "tweeFileList": [],
+  "imgFileList": [],
+  "additionFile": [],
+  "addonPlugin": [],
+  "dependenceInfo": [
+    {
+      "modName": "ModLoader",
+      "version": ">=2.5.2"
+    }
+  ]
+}
